@@ -1,4 +1,4 @@
-[MasterHead](./banner.png)
+[![MasterHead](./banner.png)]
 <h1 align="center">Hi 👋, I'm Saurav singh</h1>
 <h3 align="center">A passionate web developer from India (Aspiring fullstack developer)</h3>
 <img align="right" alt="coding" width="400" src="./programmer.gif">
